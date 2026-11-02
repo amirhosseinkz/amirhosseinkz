@@ -20,7 +20,6 @@ commits. Works with Claude Code, Codex, Cursor, and Claude Desktop.
 
 ## Elsewhere
 
-[edgerunners.org](https://edgerunners.org) ·
 [LinkedIn](https://www.linkedin.com/in/amirhosseinkz/) ·
 [dev.to](https://dev.to/amirhosseinkz) ·
 [Medium](https://medium.com/@amirhosseinkz98)
